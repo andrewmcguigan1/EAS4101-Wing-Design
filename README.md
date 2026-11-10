@@ -4,7 +4,7 @@ Andrew McGuigan and Jovan Rojas | University of Florida | April 2026
 
 Preliminary design of a tapered wing for a 10,231.8 N aircraft, for EAS 4101 (Dr. Bruce Carroll). The wing had to give a high lift-to-drag ratio, keep the root bending moment under 11,000 N·m, and have zero sweep at the quarter chord.
 
-- [Project report](Wing_Design_Project.pdf): design discussion, final wing parameters, operating conditions, and wing polars.
+- [Project report](Wing%20Design%20Project.pdf): design discussion, final wing parameters, operating conditions, and wing polars.
 
 ## Design process
 
